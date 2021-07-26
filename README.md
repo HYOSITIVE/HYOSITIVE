@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hyosik Philip Joo | HYOSITIVE 
+
+## 🌏 Positive Impact to the World
+
+🌱 I’m currently learning
+ - Node.js
+ - Algorithm
 
 <!--
-**HYOSITIVE/HYOSITIVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HYOSITIVE/HYOSITIVE** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
