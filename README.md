@@ -1,7 +1,10 @@
+<div align="center">
+ 
 # Hyosik Philip Joo | HYOSITIVE 
-
+  
 ## 🌏 Positive Impact to the World
-
+<img src="https://user-images.githubusercontent.com/21357387/169088330-7aa77d6b-b3ec-4ad9-a071-243658ea26ed.jpg" width="300" height="400">  
+ 
 ### 👨‍💻 My Skills
 
  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -17,10 +20,19 @@
  ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ #
  
+ </div>
  
- [![HYOSITIVE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYOSITIVE&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+ <div align="center">
+ 
+ [![HYOSITIVE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYOSITIVE&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)  
+   
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYOSITIVE&layout=compact&theme=default)  
+   
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HYOSITIVE&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+</div>
 
 
 <!--
