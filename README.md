@@ -3,7 +3,6 @@
 # Hyosik Philip Joo | HYOSITIVE 
   
 ## Developing 'Hyositive World'🌏
-<img src="https://user-images.githubusercontent.com/21357387/169088330-7aa77d6b-b3ec-4ad9-a071-243658ea26ed.jpg" width="300" height="400">  
  
 ### 👨‍💻 My Skills
 
