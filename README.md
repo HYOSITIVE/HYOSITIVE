@@ -16,6 +16,7 @@
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
  ![Snowflake](https://img.shields.io/badge/snowflake-29B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) 
  ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+ ![ClickHouse](https://img.shields.io/badge/Clickhouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
